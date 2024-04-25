@@ -1,6 +1,6 @@
 # Controle de Presença Automatizado com Google Sheets API 🤖
 
-Um sistema automatizado em Python para controle de presença usando a API do Google Sheets. Facilite o registro de presença em atividades acadêmicas de forma eficiente e precisa.
+Um sistema automatizado em Python para controle de presença usando a API do Google Sheets. Facilitando o registro de presença em atividades acadêmicas de forma eficiente e precisa.
 
 ## Funcionalidades Principais:
 
