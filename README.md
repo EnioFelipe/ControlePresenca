@@ -1,4 +1,4 @@
-# Controle de Presença - Sexta Esportiva
+# Controle de Presença - Sexta Esportiva ⚽
 Projeto para controle de presença da sexta esportiva do Diretório Acadêmico da Computação (Universidade Tecnológica Federal do Paraná - Câmpus Cornélio Procópio) <br>
 
 **Colaboradores:**
