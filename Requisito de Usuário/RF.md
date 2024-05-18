@@ -13,9 +13,9 @@
 | RF07 |O sistema deve permitir que os gerentes alterem dados da conta de clientes    |       Alta      |
 | RF08 |O sistema deve permitir que os gerentes consigam encerrar contas de clientes|  Alta     |
 | RF09 |O sistema deve fornecer um extrato das transações realizadas pelo cliente|  Alta     |
-| RF10 |O sistema pode oferecer a opção de investimento para os clientes |     Alta        |
-| RF11 |O sistema pode oferecer a opção de cancelar o investimento para os clientes.   |  Alta     |
-| RF12 |O sistema pode oferecer a opção de recarga de créditos    |      Alta       |
-| RF13 |O sistema pode oferecer a opção de gerar um cartão virtual |  Alta     |
-| RF14 |O sistema pode oferecer a opção de visualizar a fatura dos cartões gerados |  Alta     |
-| RF15 |O sistema pode oferecer uma opção de empréstimo para o cliente   |      Alta       |
+| RF10 |O sistema pode oferecer a opção de investimento para os clientes |     Média        |
+| RF11 |O sistema pode oferecer a opção de cancelar o investimento para os clientes.   |  Média     |
+| RF12 |O sistema pode oferecer a opção de recarga de créditos    |      Baixa       |
+| RF13 |O sistema pode oferecer a opção de gerar um cartão virtual |  Baixa    |
+| RF14 |O sistema pode oferecer a opção de visualizar a fatura dos cartões gerados |  Baixa     |
+| RF15 |O sistema pode oferecer uma opção de empréstimo para o cliente   |      Baixa      |
