@@ -9,7 +9,7 @@
 | RF03 |O sistema deve possibilitar a alteração de certos dados da conta por parte do cliente|  Alta     |
 | RF04 |O sistema deve possibilitar a consulta dos dados da conta por parte do cliente|  Alta     |
 | RF05 |O sistema deve possibilitar a exclusão da conta por parte do cliente     |      Alta       |
-| RF06 |O sistema deve permitir o login de gerentes.   |  Alta     |
+| RF06 |O sistema deve permitir o login de gerentes   |  Alta     |
 | RF07 |O sistema deve permitir que os gerentes alterem dados da conta de clientes    |       Alta      |
 | RF08 |O sistema deve permitir que os gerentes consigam encerrar contas de clientes|  Alta     |
 | RF09 |O sistema deve fornecer um extrato das transações realizadas pelo cliente|  Alta     |
